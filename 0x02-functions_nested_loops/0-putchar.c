@@ -1,9 +1,12 @@
 #include "main.h"
 
+/**
+ * main - print _putcar
+ * is written by bwave
+ * Return: 0
+ */
 int main(void)
 {
-// Get the character to be written
-char ch = '1';
 _putchar('_');
 _putchar('p');
 _putchar('u');
