@@ -2,6 +2,8 @@
 
 int main(void)
 {
+// Get the character to be written
+char ch = '1';
 _putchar('_');
 _putchar('p');
 _putchar('u');
