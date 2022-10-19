@@ -3,7 +3,7 @@
 /**
  * _isalpha - checks for alphabetical letters
  * @c: a charter to be checke on
- * Retuen: returns 0 or 1 depending on condition
+ * Return: returns 0 or 1 depending on condition
  */
 int _isalpha(int c)
 {
