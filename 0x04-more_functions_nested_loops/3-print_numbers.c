@@ -1,7 +1,7 @@
-#include "mian.h"
+#include "main.h"
 
 /**
- * print_numbers - print um from 0-9
+ * print_numbers - print num from 0-9
  * Return: void
  */
 
